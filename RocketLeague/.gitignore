@@ -79,7 +79,7 @@ DerivedDataCache
 # Starter Content
 StarterContent
 Geometry
-VehicleAdv
+#VehicleAdv
 VehicleAdvCPP
 
 RocketLeague.app
